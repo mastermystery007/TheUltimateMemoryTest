@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "757777729391",
+    "firebase_url": "https://theultimatememorytest.firebaseio.com",
+    "project_id": "theultimatememorytest",
+    "storage_bucket": "theultimatememorytest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757777729391:android:c7ca6ccf0ab3d551",
+        "android_client_info": {
+          "package_name": "com.doodlz.husain.theultimatememorytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757777729391-n94asd2didcm4ej02n0lr2eubf38bsrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doodlz.husain.theultimatememorytest",
+            "certificate_hash": "00f0f21cdbccb358ec27347c438b0777d78265b6"
+          }
+        },
+        {
+          "client_id": "757777729391-ltm3jokk5k4l34jlto0n3aup51ifktbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTvy4wJUNgTEHrHgzQHxXWDLeJ4CfM_9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757777729391-ltm3jokk5k4l34jlto0n3aup51ifktbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
